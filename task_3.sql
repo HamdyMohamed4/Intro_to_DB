@@ -38,3 +38,5 @@ CREATE TABLE Order_Details (
 
 -- List all tables in the alx_book_store database
 SHOW TABLES FROM alx_book_store;
+
+mysql -u your_username -p your_password alx_book_store < task_3.sql
